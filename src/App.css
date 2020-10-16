@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.circle-label {
+  transform: translateY(0.25em);
+}
+
+.circle-percentage {
+  font-size: 0.6em;
+  line-height: 1;
+  text-anchor: middle;
+  transform: translateY(-0.25em);
+}
+
+.circle-text {
+  font-size: 0.2em;
+  text-transform: uppercase;
+  text-anchor: middle;
+  transform: translateY(0.7em);
+  color: "#f66f14";
+}
